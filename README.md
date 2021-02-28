@@ -1,4 +1,4 @@
-Psynesthesia
+Psynesthesia - forked
 ============
 
 A Neat little script that converts sound to color, originally thought of to show what music means to deaf counterparts, in a way understandable to them.
